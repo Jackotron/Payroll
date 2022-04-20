@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="subscribe">Введите имя сотрудника</string>
+    <string name="sb_sub">Введите ваше имя</string>
+    <string name="statusName">Должность</string>
+    <string name="password">Введите ваш код</string>
+    <string name="salary">Начислить зарплату</string>
+    <string name="textview">ОкноИнф</string>
+</resources>
